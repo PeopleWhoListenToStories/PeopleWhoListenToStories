@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1></h1>
 
-<!--
-**PeopleWhoListenToStories/PeopleWhoListenToStories** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
+  <a href="#"><img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" /></a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://xulai.me" title="xulai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./widgets/title-dark.svg">
+      <img alt="Hello World! I am xulai." src="/widgets/title-light.svg">
+    </picture>
+  </a>
+</h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><samp>_</samp></p>
